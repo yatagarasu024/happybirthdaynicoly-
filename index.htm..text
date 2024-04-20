@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday, Nicoly!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #ffc0cb;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .flower-image {
+            max-width: 100%;
+            display: block;
+            margin: 20px auto;
+            border-radius: 8px;
+        }
+        p {
+            color: #555;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Happy Birthday, Nicoly!</h1>
+    </header>
+    <div class="container">
+        <img src="https://via.placeholder.com/400" alt="Flores" class="flower-image">
+        <p>Querida Nicoly💖,</p>
+        <p>Hoje é um dia especial, é o seu aniversário!👏👏👏 Desejo a você um dia repleto de alegria, amor e muitas surpresas, de preferência agradáveis😊.</p>
+        <p>Espero que este novo ano da sua vida seja cheio de conquistas, felicidade e momentos incríveis e especialmente inesquecíveis. Você merece toda a felicidade do mundo! Tenha um bom dia!🙂</p>
+        <p>Com carinho,</p>
+        <p>Eu😊</p>
+    </div>
+</body>
+</html>
